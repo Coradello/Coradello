@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Coradello
 - 👀 I’m interested in SAP/ERP/BUSINESS TECHNOLOGY
 - 🌱 I’m currently learning Everything
+- English,French and technology
 
 
 <!---
