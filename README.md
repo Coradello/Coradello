@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thiago Coradello
-- 👀 I’m interest in SAP/ERP/BUSINESS TECHNOLOGY/TOTVS
+- 👀 I’m interest in SAP
 - 🌱 I’m currently learning Everything
 
 
